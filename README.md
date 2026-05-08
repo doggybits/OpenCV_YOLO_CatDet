@@ -55,8 +55,8 @@ python main.py
 ```
 
 ## Planned Implementation
-# 1. Integrate with a physical servo-controlled cat door
-# 2. Improve color classification robustness (lighting variations)
-# 3. Add individual cat recognition (face / pattern)
-# 4. Deploy on Raspberry Pi / edge device
-# 5. MQTT / Home Assistant integration for notifications
+- Integrate with a physical servo-controlled cat door
+- Improve color classification robustness (lighting variations)
+- Add individual cat recognition (face / pattern)
+- Deploy on Raspberry Pi / edge device
+- MQTT / Home Assistant integration for notifications
