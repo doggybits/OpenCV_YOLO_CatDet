@@ -52,6 +52,7 @@ pip install opencv-python numpy ultralytics  # or whatever YOLO wrapper you're u
 
 # 3. Run the main program
 python main.py
+```
 
 ## Planned Implementation
 # 1. Integrate with a physical servo-controlled cat door
