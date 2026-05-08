@@ -52,3 +52,10 @@ pip install opencv-python numpy ultralytics  # or whatever YOLO wrapper you're u
 
 # 3. Run the main program
 python main.py
+
+## Planned Implementation
+# 1. Integrate with a physical servo-controlled cat door
+# 2. Improve color classification robustness (lighting variations)
+# 3. Add individual cat recognition (face / pattern)
+# 4. Deploy on Raspberry Pi / edge device
+# 5. MQTT / Home Assistant integration for notifications
