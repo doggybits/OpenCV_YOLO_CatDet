@@ -1,3 +1,5 @@
+![OpenCV YOLO CatDet Banner](catcv.png)
+
 # OpenCV_YOLO_CatDet 🐱
 
 **Smart Cat Door / Exclusive Cat Box System**
